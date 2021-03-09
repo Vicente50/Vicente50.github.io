@@ -1,0 +1,47 @@
+body{
+    background-image:url(../Imagens/back1.jpg) ;
+    background-size: 100%;
+}
+
+h1{
+    color: white;
+}
+
+header{
+    color: white;   
+}
+
+img{
+    width: 350px;
+    height: 400px;
+}
+
+.filo{
+    position: absolute;
+    top: 16%;
+    left: 30%;
+    width: 450px;
+    height: 400px;
+}
+
+.socio{
+    position: absolute;
+    top: 16%;
+    right: 4%;
+    width: 450px;
+    height: 400px;
+
+}
+
+.h2{
+    color: white;
+    position: absolute;
+    top: 6%;
+    left: 42%;
+}
+.h0{
+    color: white;
+    position: absolute;
+    top: 6%;
+    right: 15%;
+}

@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-image: url(../Imagens/back1.jpg);
+    background-size: 100%;
+}
+footer{
+    position: absolute;
+    bottom: 10px;
+
+}
+.voltar{
+    position: absolute;
+    left: -20px;
+    bottom: 10%;
+    width: 200px;
+    height: 100px;
+} 
+a{
+    color: white;
+
+}
